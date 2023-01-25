@@ -1,5 +1,5 @@
 # Josianne Blouin
-![photo de moi] (moi.png)
+![photo de moi] (semaine_01/moi.png)
 
 Photo prise devant l'oeuvre *Bilateral Time Slicer* de Rafael Lozano-Hemmer, Bian, janvier 2023
 
