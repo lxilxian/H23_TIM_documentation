@@ -9,6 +9,6 @@ Ce domaine est pour moi un champ de découvertes sans cesse renouvellé. J'aime 
 ## Ce que j'aime d'enseigner la muséologie en TIM
 Permettre aux étudiants d'aiguiser leur regard sur les oeuvres et dispositifs multimédias en exposition et qu'ils et elles voient tous les petits éléments à soigner dans la mise en exposition pour une meilleure expérience des visiteurs. J'ai hâte de vous faire découvrir l'envers du décor muséologique.
 
-![photo de moi] (atelier_museo.png)
+![photo de moi](atelier_museo.png)
 
 Photo prise dans les locaux de muséologie lors des dernières porte-ouvertes du Collège.
