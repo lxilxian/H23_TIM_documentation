@@ -1,9 +1,13 @@
 **Nom de l'exposition** : Elekta
- img>
+
 **Lieu** : Montreal
+
 **Type d'exposition** : Intérieur
+
 **Date de votre visite** : 2 février
+
 **Oeuvre**:Copacabana Machine Sex 
+
 img<<
 
 **Artiste** :Bill vorr
